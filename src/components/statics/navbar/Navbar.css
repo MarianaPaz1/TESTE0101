@@ -1,0 +1,16 @@
+.nav{
+    background-color:#4F9368!important; 
+}
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.cursor img{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+}
+.text-decorator-none{
+    text-decoration: none;
+}
